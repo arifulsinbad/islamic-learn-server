@@ -3,20 +3,20 @@ const app = express();
 const cors = require('cors')
 const port = process.env.PORT || 5000;
 app.use(cors())
-const news = require('./data/islamic.json')
+const islamic = require('./data/islamic.json')
 
 const catagory = require('./data/catagories.json')
 app.get('/',(req, res)=>{
- res.send('news api running');
+ res.send('islamic api running');
 
 });
 app.get('/islamic-catagories', (req, res) =>{
  res.send(catagory)
 });
-app.get('/news/:id', (req, res)=>{
+app.get('/islamic/:id', (req, res)=>{
  const id = req.params.id
- const selectNews =news.find(n =>n._id ===id)
- res.send(selectNews)
+ const selectIslamic =news.find(n =>n._id ===id)
+ res.send(selectIslamic)
 })
 app.get('/catagory/:id', (req, res)=>{
  const id =req.params.id
@@ -29,10 +29,10 @@ app.get('/catagory/:id', (req, res)=>{
   res.send(catagoryId)
  }
 })
-app.get('/news', (req, res)=>{
- res.send(news)
+app.get('/islamic', (req, res)=>{
+ res.send(islamic)
 })
  
 app.listen(port, ()=>{
- console.log('multi news server, ',port);
+ console.log('islamic learn server, ',port);
 })
