@@ -1,0 +1,46 @@
+[
+ {
+   "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+   "others_info": {
+     "is_todays_pick": false,
+     "is_trending": true
+   },
+   "category_id": "01",
+   "rating": { "number": 1, "badge": "Excellent" },
+   "total_view": 488,
+   "total": "Sura-114",
+   "name": "Al-Quran",
+   "title": "The Quran also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God.",
+   
+  "link":"http://www.quraanshareef.org/",
+   "image": "https://static.vecteezy.com/system/resources/previews/000/363/461/original/vector-al-quran-stand-holder-illustration.jpg",
+   "details": "Qurān, (Arabic: “Recitation”) also spelled Quran and Koran, the sacred scripture of Islam. According to conventional Islamic belief, the Qurʾān was revealed by the angel Gabriel to the Prophet Muhammad in the West Arabian towns Mecca and Medina beginning in 610 and ending with Muhammad's death in 632 ce."
+ },
+ {
+   "_id": "0282e0e58a5c404fbd15261fsaadac2ab6a",
+   "others_info": {
+     "is_todays_pick": false,
+     "is_trending": true
+   },
+   "category_id": "02",
+   "rating": { "number": 2, "badge": "Excellent" },
+   "total_view": 488,
+   "total": "Hadis-114",
+   "name": "Bukhri Shoreef",
+   "title": "Bukari Shoreef Arbi and bangla pdf file.All part",
+   
+  "link":[{"part":"https://drive.google.com/file/d/1sYDWDUV-FRlZ6QqKkw-4XFhbGgDnqq81/view"},
+{"part":"https://drive.google.com/file/d/1Ra5_wWkKaSaa1pjej39yAtP8c_X5Fwtr/view"},
+{"part":"https://drive.google.com/file/d/1Zf6Vy5ct3Ifsfq9vvzxjYfJxn921KG1B/view"},
+{"part":"https://drive.google.com/file/d/16TQFpvMVQy1BIKEsTbtBk2DavACYBhZv/view"},
+{"part":"https://drive.google.com/file/d/1-P2_1pfw_AfNkJCTw189TM90AQJbk9Xu/view"},
+{"part":"https://drive.google.com/file/d/1odes0pMRdeX7NEo0VFfZvEMnDw-S8tCC/view?usp=sharing"},
+{"part":"https://drive.google.com/file/d/1vvkI4tygwFDbdmgXS5ot8izfljnFQZpa/view?usp=sharing"},
+{"part":"https://drive.google.com/file/d/13v43DsTmnL8TrEM50IYPvtpUG8VZGCqR/view?usp=sharing"},
+{"part":"https://drive.google.com/file/d/19Lhnagx6_vFOzYc5qIbTO7WnKrSpBujN/view?usp=sharing"},
+{"part":"https://drive.google.com/file/d/1Z0EplojOx8JEIsCOVWwFzZvAj28OaBbH/view?usp=sharing"}
+],
+   "image": "https://play-lh.googleusercontent.com/Qqr6P-L2e8brnaxH_7AtnhKXuJKb7etxISxtFRvEbsrXfX_DB9Ug5FA1nIw2K0Utsw",
+   "details": "Qurān, (Arabic: “Recitation”) also spelled Quran and Koran, the sacred scripture of Islam. According to conventional Islamic belief, the Qurʾān was revealed by the angel Gabriel to the Prophet Muhammad in the West Arabian towns Mecca and Medina beginning in 610 and ending with Muhammad's death in 632 ce."
+ }
+]
