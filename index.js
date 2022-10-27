@@ -10,22 +10,22 @@ app.get('/',(req, res)=>{
  res.send('islamic api running');
 
 });
-app.get('/islamic-catagories', (req, res) =>{
+app.get('/islamic-catagory', (req, res)=>{
  res.send(catagory)
-});
+})
 app.get('/islamic/:id', (req, res)=>{
  const id = req.params.id
- const selectIslamic =news.find(n =>n._id ===id)
+ const selectIslamic =islamic.find(n =>n._id ===id)
  res.send(selectIslamic)
 })
 app.get('/catagory/:id', (req, res)=>{
  const id =req.params.id
  if(id=== '08'){
-  res.send(news)
+  res.send(islamic)
  }
  else{
   
-  const catagoryId = news.filter(f => f.category_id ===id)
+  const catagoryId = islamic.filter(f => f.category_id ===id)
   res.send(catagoryId)
  }
 })

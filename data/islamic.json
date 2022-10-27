@@ -10,9 +10,9 @@
    "total_view": 488,
    "total": "Sura-114",
    "name": "Al-Quran",
-   "title": "The Quran also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from God.",
+   "title": " A book in which there is no mistake",
    
-  "link":"http://www.quraanshareef.org/",
+  "link":[{"part":"https://drive.google.com/file/d/1nHJb8_JnWF9PZ81Qpu-cwJw2rqny41rv/view"}],
    "image": "https://static.vecteezy.com/system/resources/previews/000/363/461/original/vector-al-quran-stand-holder-illustration.jpg",
    "details": "Qurān, (Arabic: “Recitation”) also spelled Quran and Koran, the sacred scripture of Islam. According to conventional Islamic belief, the Qurʾān was revealed by the angel Gabriel to the Prophet Muhammad in the West Arabian towns Mecca and Medina beginning in 610 and ending with Muhammad's death in 632 ce."
  },
@@ -80,7 +80,7 @@
   "name": "Abu Dawud Shoreef",
   "title": "Abu Dawud Shorref bangla translate all hadees",
   
- "link":"Comming Soon",
+  "link":[{"part":"Comming Soon"}],
   "image": "https://play-lh.googleusercontent.com/-a5KxmCuPdJLncyk5GsXAnnPSdYm3s0ikEz31mcayg8lRXKlkITWtEoJ5pZfTgVfqqk",
   "details": "সুনানে আবু দাউদ (আরবি: سنن أبي داود, প্রতিবর্ণী. Sunan Abī Dāwūd) ইসলামের পবিত্রতম ছয়টি হাদিস গ্রন্থের মধ্যে একটি, যা কুতুব আল-সিত্তাহ নামেও পরিচিত। এটি মূলত হাদিসের সংকলনমূলক গ্রন্থ যা আবু দাউদ সংকলন করেন। তার সম্পূর্ণ নাম আবু দাউদ সুলায়মান ইবনুল আশ'আস আস-সিজিস্তানী।"
 },
@@ -97,7 +97,7 @@
   "name": "Tirmizi Shoreef",
   "title": "Tirmizi Shoreef bangla translate all hadees",
   
- "link":"Comming Soon",
+  "link":[{"part":"Comming Soon"}],
   "image": "https://play-lh.googleusercontent.com/coo3D0OGSaSk7whGva0xsxdIQ_tdRjatuxTalrDNhFji1KcAX76H4unPrtzfMRqrb30",
   "details": "ইমাম তিরমিযী (রাহঃ) পুরো নাম আল-ইমামুল হাফেজ আবু ঈসা মুহাম্মদ ইবনে ঈসা ইবনে সওরাটি ইবনে মুসা ইবনে শিখুস সুলামির মৃত্যু-তিরমিযী। তিনি জিহুল রায় বেলাভুমেতি তিরমিযী নামক শহীদ ২০৯ হিজরী সনে জন্মগ্রহণ করলেন। তিনি হাদীস অপরিসীম যথাযথভাবে জন্মগ্রহণ করেন। বিশ্বাস ও অ্যাক্টির দলিল হিসাবে গণনা করা।"
 },
@@ -114,7 +114,7 @@
   "name": "Sunan an-Nasa'i",
   "title": "Sunan an-Nasa'i bangla translate all hadees",
   
- "link":"Comming Soon",
+ "link":[{"part":"Comming Soon"}],
   "image": "https://play-lh.googleusercontent.com/cQfim1Pt8UYisYGF-972-_Buyhxepc2OGPO9g24CnO-x96-Q8Yis9nnf7_qdvnGCkw",
   "details": "Sunan an-Nasa'i is a collection of hadith compiled by Imam Ahmad an-Nasa'i (rahimahullah). His collection is unanimously considered to be one of the six canonical collections of hadith (Kutub as-Sittah) of the Sunnah of the Prophet (ﷺ). It contains roughly 5700 hadith (with repetitions) in 52 books."
 }
